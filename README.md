@@ -4,7 +4,7 @@ My first Restful API using .NET.
 
 # Retrospect  
 
-* The tutorial for this can be found here: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1  
+* The tutorial for this can be found here:  https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1  
   
   Overall, this tutorial was not a good learning experience. Since the controller is generated, there wasn't really anything to "figure out" and therefore not much to learn from. I've decided to keep moving and work on a different ASP.NET core MVC application.  
 
