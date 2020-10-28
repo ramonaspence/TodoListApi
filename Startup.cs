@@ -23,7 +23,7 @@ namespace TodoApi
         {
             services.AddDbContext<TodoContext>(opt =>
                 opt.UseInMemoryDatabase("TodoList"));
-            )
+            
             services.AddControllers();
         }
 
